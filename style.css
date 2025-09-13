@@ -1,0 +1,16 @@
+/* D2Coding 폰트 적용 */
+@font-face {
+  font-family: 'D2Coding';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("./fonts/D2Coding.woff2") format('woff2');
+}
+
+body {
+  font-family: "D2Coding", "Fira Code", Monaco, Consolas, "Ubuntu Mono", monospace !important;
+}
+
+code, kbd, pre {
+  font-family: "D2Coding", "Fira Code", Monaco, Consolas, "Ubuntu Mono", monospace !important;
+}
