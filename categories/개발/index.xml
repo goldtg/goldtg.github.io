@@ -1,4 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>개발 on goldtg-log</title><link>https://goldtg.github.io/categories/%EA%B0%9C%EB%B0%9C/</link><description>Recent content in 개발 on goldtg-log</description><generator>Hugo</generator><language>ko-kr</language><lastBuildDate>Sat, 13 Sep 2025 20:24:06 +0900</lastBuildDate><atom:link href="https://goldtg.github.io/categories/%EA%B0%9C%EB%B0%9C/index.xml" rel="self" type="application/rss+xml"/><item><title>블로그 이사</title><link>https://goldtg.github.io/posts/%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%9D%B4%EC%82%AC/</link><pubDate>Sat, 13 Sep 2025 20:24:06 +0900</pubDate><guid>https://goldtg.github.io/posts/%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%9D%B4%EC%82%AC/</guid><description>&lt;p&gt;jekeyll, velog, hashnode 를 거쳐서 hugo로 블로그 도착!
-이번에는 정말 꾸준하게 작성해보고 싶어서 좋아하는 디자인으로 선택했다&lt;/p&gt;
-&lt;p&gt;기록의 중요성과 유지를 항상 원하고 있는데 미룰수록 유실되는 느낌이 들어서 반드시 이루고 말겠다는 의지!&lt;/p&gt;
-&lt;p&gt;나의 커밋이 인류 발전에 아주 조금이라도 도움이 될 수 있도록 자그마한 보폭이라도 나아가자.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>개발 on goldtg-log</title>
+    <link>http://localhost:1313/categories/%EA%B0%9C%EB%B0%9C/</link>
+    <description>Recent content in 개발 on goldtg-log</description>
+    <generator>Hugo</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Sat, 13 Sep 2025 20:24:06 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/%EA%B0%9C%EB%B0%9C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>블로그 이사</title>
+      <link>http://localhost:1313/posts/%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%9D%B4%EC%82%AC/</link>
+      <pubDate>Sat, 13 Sep 2025 20:24:06 +0900</pubDate>
+      <guid>http://localhost:1313/posts/%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%9D%B4%EC%82%AC/</guid>
+      <description>&lt;p&gt;여기에 포스트 내용을 작성하세요.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
