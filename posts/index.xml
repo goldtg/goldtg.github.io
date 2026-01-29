@@ -1,4 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on 황금호랑이'S</title><link>https://goldtg.github.io/posts/</link><description>Recent content in Posts on 황금호랑이'S</description><generator>Hugo</generator><language>ko-kr</language><lastBuildDate>Sat, 13 Sep 2025 20:24:06 +0900</lastBuildDate><atom:link href="https://goldtg.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>블로그 이사</title><link>https://goldtg.github.io/posts/%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%9D%B4%EC%82%AC/</link><pubDate>Sat, 13 Sep 2025 20:24:06 +0900</pubDate><guid>https://goldtg.github.io/posts/%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%9D%B4%EC%82%AC/</guid><description>&lt;p&gt;jekeyll, velog, hashnode 를 거쳐서 hugo로 블로그 도착!
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on 황금호랑이'S</title><link>https://goldtg.github.io/posts/</link><description>Recent content in Posts on 황금호랑이'S</description><generator>Hugo</generator><language>ko-kr</language><lastBuildDate>Thu, 29 Jan 2026 00:00:00 +0900</lastBuildDate><atom:link href="https://goldtg.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>2025년 회고</title><link>https://goldtg.github.io/posts/2025%EB%85%84-%ED%9A%8C%EA%B3%A0/</link><pubDate>Thu, 29 Jan 2026 00:00:00 +0900</pubDate><guid>https://goldtg.github.io/posts/2025%EB%85%84-%ED%9A%8C%EA%B3%A0/</guid><description>&lt;p&gt;회고 지각~&lt;/p&gt;
+&lt;p&gt;2025년은 참 부족한 상태로 시작한 해였다. 졸업해서 아무것도 모르는 상태인데도 좋은 기회로 실무로 바로 투입되어 경험하고 성장할 수 있었던 어찌보면 불안하지만 돌아보니 쌓아가고 있던 여정이었다고 생각이 드는 2025년이었다.&lt;/p&gt;
+&lt;h2 id="1월--2월"&gt;1월 ~ 2월&lt;/h2&gt;
+&lt;p&gt;1월에는 적응하려고 회사 코드를 많이 보고 있었던 것 같다. 베트남에서 한국 물건을 팔기위한 쇼핑몰을 제작하고 있었다.
+이 시기에는 빠뜨린 예외가 없는지 확인하면서 코드를 읽고 if문으로 예외를 제안하는 것이 내 업무였다.&lt;/p&gt;
+&lt;p&gt;이 때 내가 직접 작성한 코드는 기억에도 없지만 매우 못하던 것은 기억한다. 나중에 알게됐지만 이때 내가 작성한 코드는 팀장님이 오히려 새로 작성했어야 한다고 했다.&lt;/p&gt;</description></item><item><title>블로그 이사</title><link>https://goldtg.github.io/posts/%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%9D%B4%EC%82%AC/</link><pubDate>Sat, 13 Sep 2025 20:24:06 +0900</pubDate><guid>https://goldtg.github.io/posts/%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%9D%B4%EC%82%AC/</guid><description>&lt;p&gt;jekeyll, velog, hashnode 를 거쳐서 hugo로 블로그 도착!
 이번에는 정말 꾸준하게 작성해보고 싶어서 좋아하는 디자인으로 선택했다&lt;/p&gt;
 &lt;p&gt;기록의 중요성과 유지를 항상 원하고 있는데 미룰수록 유실되는 느낌이 들어서 반드시 이루고 말겠다는 의지!&lt;/p&gt;
 &lt;p&gt;나의 커밋이 인류 발전에 아주 조금이라도 도움이 될 수 있도록 자그마한 보폭이라도 나아가자.&lt;/p&gt;</description></item><item><title>[C언어] 15.파일 스트림</title><link>https://goldtg.github.io/posts/c%EC%96%B8%EC%96%B4-15.%ED%8C%8C%EC%9D%BC%EC%8A%A4%ED%8A%B8%EB%A6%BC/</link><pubDate>Thu, 01 Feb 2024 22:54:37 +0900</pubDate><guid>https://goldtg.github.io/posts/c%EC%96%B8%EC%96%B4-15.%ED%8C%8C%EC%9D%BC%EC%8A%A4%ED%8A%B8%EB%A6%BC/</guid><description>&lt;h1 id="c언어-학습-노트--15-파일-스트림"&gt;C언어 학습 노트 : 15. 파일 스트림&lt;/h1&gt;
@@ -144,7 +149,8 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;주의&lt;/em&gt;: Windows는 PE, 리눅스/유닉스는 ELF 형식이 일반적이나, 개념(코드/데이터/정적 영역) 자체는 유사하다.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;em&gt;주의&lt;/em&gt;: Windows는 PE, 리눅스/유닉스는 ELF 형식이 일반적이나, 개념(코드/데이터/정적 영역) 자체는 유사하다.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;hr&gt;
 &lt;h2 id="2-가상-메모리"&gt;2. 가상 메모리&lt;/h2&gt;
 &lt;ul&gt;
@@ -250,11 +256,11 @@
 &lt;li&gt;다른 소스 파일에 정의된 변수나 함수를 사용하기 위해 &lt;code&gt;extern&lt;/code&gt; 키워드를 붙인다.&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;extern&lt;/code&gt;은 &lt;strong&gt;external linkage&lt;/strong&gt;를 명시하며, 링커가 다른 파일의 정의를 연결한다.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-c" data-lang="c"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#75715e"&gt;// file1.c
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#75715e"&gt;&lt;/span&gt;&lt;span style="color:#66d9ef"&gt;int&lt;/span&gt; g_value &lt;span style="color:#f92672"&gt;=&lt;/span&gt; &lt;span style="color:#ae81ff"&gt;10&lt;/span&gt;;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-c" data-lang="c"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#75715e"&gt;// file1.c
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;int&lt;/span&gt; g_value &lt;span style="color:#f92672"&gt;=&lt;/span&gt; &lt;span style="color:#ae81ff"&gt;10&lt;/span&gt;;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#75715e"&gt;// file2.c
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#75715e"&gt;&lt;/span&gt;&lt;span style="color:#66d9ef"&gt;extern&lt;/span&gt; &lt;span style="color:#66d9ef"&gt;int&lt;/span&gt; g_value; 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;extern&lt;/span&gt; &lt;span style="color:#66d9ef"&gt;int&lt;/span&gt; g_value; 
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#a6e22e"&gt;printf&lt;/span&gt;(&lt;span style="color:#e6db74"&gt;&amp;#34;%d&lt;/span&gt;&lt;span style="color:#ae81ff"&gt;\n&lt;/span&gt;&lt;span style="color:#e6db74"&gt;&amp;#34;&lt;/span&gt;, g_value); &lt;span style="color:#75715e"&gt;// 다른 파일에 정의된 변수 사용
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
 &lt;h2 id="학습-포인트-정리"&gt;학습 포인트 정리&lt;/h2&gt;
@@ -337,7 +343,7 @@
 &lt;li&gt;
 &lt;p&gt;변수는 이름, 메모리 주소, 값의 세 요소로 구성된다.&lt;/p&gt;</description></item><item><title>[C언어] 7.반복문</title><link>https://goldtg.github.io/posts/c%EC%96%B8%EC%96%B4-7.%EB%B0%98%EB%B3%B5%EB%AC%B8/</link><pubDate>Wed, 24 Jan 2024 22:54:37 +0900</pubDate><guid>https://goldtg.github.io/posts/c%EC%96%B8%EC%96%B4-7.%EB%B0%98%EB%B3%B5%EB%AC%B8/</guid><description>&lt;h1 id="c언어-학습-노트--7-반복문"&gt;C언어 학습 노트 : 7. 반복문&lt;/h1&gt;
 &lt;h2 id="1-while문"&gt;1. &lt;code&gt;while&lt;/code&gt;문&lt;/h2&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-c" data-lang="c"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;while&lt;/span&gt; (&lt;span style="color:#960050;background-color:#1e0010"&gt;조건&lt;/span&gt;) {
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-c" data-lang="c"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;while&lt;/span&gt; (&lt;span style="color:#960050;background-color:#1e0010"&gt;조건&lt;/span&gt;) {
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#960050;background-color:#1e0010"&gt;실행문&lt;/span&gt;;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#960050;background-color:#1e0010"&gt;마무리&lt;/span&gt; &lt;span style="color:#960050;background-color:#1e0010"&gt;연산&lt;/span&gt;&lt;span style="color:#f92672"&gt;++&lt;/span&gt;;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;}
@@ -348,7 +354,7 @@
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id="2-for문"&gt;2. &lt;code&gt;for&lt;/code&gt;문&lt;/h2&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-c" data-lang="c"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;for&lt;/span&gt; (i &lt;span style="color:#f92672"&gt;=&lt;/span&gt; &lt;span style="color:#ae81ff"&gt;0&lt;/span&gt;; i &lt;span style="color:#f92672"&gt;&amp;lt;&lt;/span&gt; &lt;span style="color:#ae81ff"&gt;10&lt;/span&gt;; i&lt;span style="color:#f92672"&gt;++&lt;/span&gt;) {
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-c" data-lang="c"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;for&lt;/span&gt; (i &lt;span style="color:#f92672"&gt;=&lt;/span&gt; &lt;span style="color:#ae81ff"&gt;0&lt;/span&gt;; i &lt;span style="color:#f92672"&gt;&amp;lt;&lt;/span&gt; &lt;span style="color:#ae81ff"&gt;10&lt;/span&gt;; i&lt;span style="color:#f92672"&gt;++&lt;/span&gt;) {
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#960050;background-color:#1e0010"&gt;실행문&lt;/span&gt;;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;}
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;
@@ -358,7 +364,7 @@
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id="3-do-while문"&gt;3. &lt;code&gt;do-while&lt;/code&gt;문&lt;/h2&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-c" data-lang="c"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;do&lt;/span&gt; {
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-c" data-lang="c"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;do&lt;/span&gt; {
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#960050;background-color:#1e0010"&gt;실행문&lt;/span&gt;;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;} &lt;span style="color:#66d9ef"&gt;while&lt;/span&gt; (&lt;span style="color:#960050;background-color:#1e0010"&gt;조건&lt;/span&gt;);
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;
@@ -427,10 +433,10 @@
 &lt;li&gt;대소 비교(&lt;code&gt;&amp;gt;=&lt;/code&gt;, &lt;code&gt;&amp;lt;=&lt;/code&gt;)는 가능하나, 여전히 정밀도 문제를 고려해야 한다.&lt;/li&gt;
 &lt;li&gt;일반적으로는 &lt;strong&gt;허용 오차(epsilon) 방식&lt;/strong&gt;을 사용한다.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-c" data-lang="c"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#75715e"&gt;#include&lt;/span&gt; &lt;span style="color:#75715e"&gt;&amp;lt;math.h&amp;gt;&lt;/span&gt;&lt;span style="color:#75715e"&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#75715e"&gt;&lt;/span&gt;&lt;span style="color:#66d9ef"&gt;if&lt;/span&gt; (&lt;span style="color:#a6e22e"&gt;fabs&lt;/span&gt;(a &lt;span style="color:#f92672"&gt;-&lt;/span&gt; b) &lt;span style="color:#f92672"&gt;&amp;lt;&lt;/span&gt; &lt;span style="color:#ae81ff"&gt;1e-6&lt;/span&gt;) {
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-c" data-lang="c"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#75715e"&gt;#include&lt;/span&gt; &lt;span style="color:#75715e"&gt;&amp;lt;math.h&amp;gt;&lt;/span&gt;&lt;span style="color:#75715e"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;if&lt;/span&gt; (&lt;span style="color:#a6e22e"&gt;fabs&lt;/span&gt;(a &lt;span style="color:#f92672"&gt;-&lt;/span&gt; b) &lt;span style="color:#f92672"&gt;&amp;lt;&lt;/span&gt; &lt;span style="color:#ae81ff"&gt;1e-6&lt;/span&gt;) {
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#75715e"&gt;// a와 b는 사실상 같은 값으로 본다
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#75715e"&gt;&lt;/span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;}
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
 &lt;h2 id="3-논리-연산자와-short-circuit"&gt;3. 논리 연산자와 Short Circuit&lt;/h2&gt;
 &lt;ul&gt;
@@ -502,8 +508,8 @@
 &lt;li&gt;버퍼가 비어 있으면 입력을 기다리고, 버퍼에 데이터가 있으면 첫 번째 문자 하나만 반환한다.&lt;/li&gt;
 &lt;li&gt;반환값은 &lt;code&gt;int&lt;/code&gt;형으로, &lt;code&gt;EOF&lt;/code&gt; 처리를 위해 &lt;code&gt;char&lt;/code&gt;가 아닌 &lt;code&gt;int&lt;/code&gt;로 정의된다.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-c" data-lang="c"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#75715e"&gt;#include&lt;/span&gt; &lt;span style="color:#75715e"&gt;&amp;lt;stdio.h&amp;gt;&lt;/span&gt;&lt;span style="color:#75715e"&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#75715e"&gt;&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-c" data-lang="c"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#75715e"&gt;#include&lt;/span&gt; &lt;span style="color:#75715e"&gt;&amp;lt;stdio.h&amp;gt;&lt;/span&gt;&lt;span style="color:#75715e"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;int&lt;/span&gt; &lt;span style="color:#a6e22e"&gt;main&lt;/span&gt;(&lt;span style="color:#66d9ef"&gt;void&lt;/span&gt;) {
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#66d9ef"&gt;int&lt;/span&gt; c;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#a6e22e"&gt;printf&lt;/span&gt;(&lt;span style="color:#e6db74"&gt;&amp;#34;문자를 입력하세요: &amp;#34;&lt;/span&gt;);
